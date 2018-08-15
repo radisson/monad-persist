@@ -28,6 +28,7 @@ library:
   - text
   - transformers
   - transformers-base
+  - unliftio-core
   source-dirs: library
 
 tests:
